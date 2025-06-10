@@ -8,7 +8,7 @@
 
 body {
     font-family: 'Chakra Petch', sans-serif;
-    background-image: url('img/estrela.jpeg');
+    background-image: src="img/estrela.jpeg";
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
