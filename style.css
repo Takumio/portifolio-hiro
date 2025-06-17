@@ -13,11 +13,11 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
-    color: white;
+    color: #F8F8FF;
 }
 
 h1, h2, h5 {
-    color: var(--cor-secundaria);
+    color: #FFD700;
     font-weight: 700;
 }
 
